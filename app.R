@@ -31,7 +31,7 @@ ui <- fluidPage(
   
   tags$img(src="Financiar.png",height = "137", width = "436"),
 
-  theme = shinytheme("darkly"),
+  theme = shinytheme("superhero"),
   tabsetPanel( 
     
     # pestaña 0: explicación del proyecto Shiny, financiación y datos
